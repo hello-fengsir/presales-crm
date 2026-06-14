@@ -144,6 +144,19 @@ Customer (客户)
 
 ---
 
+## 📸 产品截图
+
+<!-- 请将截图放入 images/ 目录 -->
+| 仪表盘 | 项目看板 | 手机端 |
+|---|---|---|
+| ![仪表盘](images/仪表盘.png) | ![项目看板](images/项目看板.png) | ![手机端](images/手机端.png) |
+
+## 💰 赞赏码
+
+如果这个项目对你有帮助，欢迎请作者喝杯咖啡 ☕
+
+![赞赏码](images/赞赏码.jpg)
+
 ## 📄 License
 
 MIT License © [峰Sir](https://github.com/hello-fengsir)
