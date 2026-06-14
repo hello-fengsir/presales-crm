@@ -146,10 +146,17 @@ Customer (客户)
 
 ## 📸 产品截图
 
-<!-- 请将截图放入 images/ 目录 -->
-| 仪表盘 | 项目看板 | 手机端 |
-|---|---|---|
-| ![仪表盘](images/仪表盘.png) | ![项目看板](images/项目看板.png) | ![手机端](images/手机端.png) |
+### 数据看板
+
+<p align="center">
+  <img src="images/仪表盘.png" width="800" alt="数据看板">
+</p>
+
+### 项目看板
+
+<p align="center">
+  <img src="images/项目看板.png" width="800" alt="项目看板">
+</p>
 
 ## 💰 赞赏码
 
