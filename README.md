@@ -1,4 +1,4 @@
-# 售前CRM系统 v3 (Super PMS)
+# 售前PMS项目管理系统 v3 (Super PMS)
 
 > 售前项目全生命周期管理 — 客户/项目/渠道/产品/报价/跟进一站式管理
 
@@ -55,8 +55,8 @@
 ### 部署
 
 ```bash
-git clone https://github.com/hello-fengsir/presales-crm.git
-cd presales-crm
+git clone https://github.com/hello-fengsir/presales-pms.git
+cd presales-pms
 
 # 创建 .env 文件
 cp .env.example .env
@@ -79,7 +79,7 @@ docker compose up -d
 ## 📁 项目结构
 
 ```
-presales-crm/
+presales-pms/
 ├── frontend/               # 前端 Vue 3 项目
 │   ├── src/
 │   │   ├── views/          # 页面组件
